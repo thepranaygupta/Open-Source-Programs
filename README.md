@@ -13,6 +13,7 @@
 | [NJACK Winter of Code](https://njackwinterofcode.github.io/)              | NWoC (NJACK Winter of Code) is a program by NJACK (The Official Computer Science Club of IIT Patna)                                            | 22 Oct - 10 Jan     | [TimeLine](https://njackwinterofcode.github.io/timeline.html) | Swags                                                     |
 | [Winter of Code](https://winterofcode.com/)                               | Winter of Code is a program aimed to increase participation for the Google Summer of Code program among students in colleges and universities. | Nov-Jan             | [TimeLine](https://winterofcode.com/)                         | Exclusive Schwags                                         |
 | [DevScript Winter of Code 2020](https://devscript.org/woc/)               | Winter of Code is an open-source program envisioned by DevScript that helps understand the paradigm of Open Source contribution.               | Nov-March           | [TimeLine](https://devscript.org/woc/)                        | Swags                                                     |
+| [Winter of Code 2.0](https://gdsc-woc.tech/) | GDSC IIIT Kalyani brings to you, yet again our open source program Winter of Code 2.0 with collaborative efforts from 10+ Google Developer Student Clubs. | 1 Oct-31 Jan | [Timeline](https://gdsc-woc.tech/#timeline) | Swags
 
 ## Support
 
